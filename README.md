@@ -1,2 +1,4 @@
 # MPI-Exercises
-Esercizi corso Calcolo Concorrente e Parallelo
+## Esercizi corso Programmazione Concorrente e Parallela
+
+Alcuni esercizi riguardanti matrici e comunicazioni tra processi con la libreria MPI in linguaggio C.
